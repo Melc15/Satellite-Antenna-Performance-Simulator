@@ -1,4 +1,3 @@
-
 """
 Satellite Phased-Array Radiation Pattern Visualization
 
