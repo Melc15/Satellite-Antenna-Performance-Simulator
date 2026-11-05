@@ -1,0 +1,8 @@
+
+Requirement ID,Requirement Description,Acceptance Criteria,Verification Method,Implementation,Status
+ANT-001,Beam pointing accuracy,<= 0.25 degrees,Automated performance check,performance_analysis.py,PASS
+ANT-002,Half-power beamwidth,6 to 9 degrees,Automated performance check,performance_analysis.py,PASS
+ANT-003,Peak sidelobe level,<= -10 dB,Automated performance check,performance_analysis.py,PASS
+ANT-004,Failed element degradation,<= 1.5 dB,Fault injection test,fault_simulation.py,PASS
+ANT-005,Phase error degradation,<= 0.5 dB,Fault injection test,fault_simulation.py,PASS
+ANT-006,Combined fault degradation,<= 1.8 dB,Fault injection test,fault_simulation.py,PASS
