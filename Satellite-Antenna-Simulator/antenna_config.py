@@ -1,4 +1,3 @@
-
 """
 Satellite Phased-Array Antenna Simulator
 
