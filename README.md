@@ -1,4 +1,3 @@
-# Satellite-Antenna-Performance-Simulator
 # Satellite Phased-Array Antenna Performance Simulator
 
 This Python-based program models a 16 × 16 planar phased-array antenna operating at a representative frequency of 20 GHz. It uses array-factor calculations and an assumed element radiation pattern to investigate beam steering, radiation characteristics, and simulated antenna faults.
